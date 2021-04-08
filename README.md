@@ -68,3 +68,7 @@ AI (face Detection (Cats & Dogs) - face Recognation (AWS))
 
 Animation 
 
+Github
+
+flutter Localization
+
